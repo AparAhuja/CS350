@@ -1,0 +1,3 @@
+echo You should see this.
+exit
+echo "You should't see this"
